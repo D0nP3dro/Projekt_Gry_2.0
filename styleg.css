@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+
+
+}
+body{
+    background: url('./img/Backimage3.webp');
+}
+#main{
+    float: right;
+}
+nav{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    background-color: #2B3542;
+    
+}
+nav > a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: Arial;
+    padding: 8px;
+}
+nav > a:hover{
+    color: black;
+    text-decoration: none;
+    background-color: white;
+    font-size: 20px;
+    font-family: Arial;
+    padding-right: 8px;
+}
+#display{
+    display:flex;
+    color: black;
+    font-size: 20px;
+    background-color: white;
+    padding: 30px;
+    margin-top: 250px;
+    margin-right: 100px;
+    border: 3px solid #2B3542;
+    
+}
+#imgpostacji{
+    width: 250px;
+
+
+}
+#imgpostacji img{
+    width: 50%;
+
+}

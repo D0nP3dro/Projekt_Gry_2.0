@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+
+
+}
+body{
+ 
+ font-family: arial;
+ background: url('./img/Backimage2.jpg');
+}
+#display{
+    background-color: white;
+    padding: 50px 150px;
+    border: 1px solid #2B3542;
+    float: right;
+    margin-top: 300px;
+    margin-right: 250px;
+
+}
+#display a{
+    background-color: #555;
+    border: 1px solid #2B3542;
+    padding: 8px;
+    color: white;
+    text-decoration: none;
+}   

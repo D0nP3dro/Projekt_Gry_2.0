@@ -1,0 +1,52 @@
+*{
+
+margin:0;
+padding:0;
+
+}
+body{
+    background-color: #2B3542;
+
+}
+#main{
+    background: url('./img/Backimage4.jpg');
+    height: 800px;
+    width: 1200px;
+    margin: 100px auto;
+}
+#walka{
+    display: flex;
+    justify-content: center;
+    
+}
+#postac{
+    padding: 15px;
+    width: 250px;
+    text-align: center;
+    background-color: white;
+    margin: 15px;
+}
+#przeciwnik{
+    width: 250px;
+    padding: 15px;
+    text-align: center;
+    background-color: white;
+    margin: 15px;
+}
+a{
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 15px;
+    height: 30px;
+    margin: 8px;
+    color: white;
+    padding: 8px;
+    background-color: #555;
+    border: 1px solid black;
+}
+a:hover{
+    background-color: white;
+    color: black;
+
+}
