@@ -8,7 +8,7 @@
 
     }
     if(isset($_GET['graj'])){
-        header('location:game.php');
+        header('location:gamenew.php');
         exit();
 
     }
